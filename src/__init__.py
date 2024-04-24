@@ -4,3 +4,4 @@ from .visualization import *
 from .stats import *
 from .user_behavior import *
 from .telecom_analysis import *
+from .eda_telecom import *
